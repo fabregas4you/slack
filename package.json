@@ -1,0 +1,20 @@
+{
+  "name": "slack",
+  "version": "1.0.0",
+  "description": "AzureWebApps_for_bots",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "es6-promise": "^4.0.5",
+    "list": "^0.9.5",
+    "restify": "^4.3.0",
+    "spawn-sync": "^1.0.15",
+    "try-thread-sleep": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
